@@ -1,3 +1,22 @@
+👋 ¡Hola! Soy Rosa Angelica Ariza,  apasionado por el analisis de datos y auxiliar pedagogica. Me encanta explorar los datos para extraer información valiosa y compartir mis conocimientos con otros.
+
+🔭 Actualmente estoy trabajando en proyectos de análisis de datos para mejorar la eficiencia y la toma de decisiones.
+
+🌱 Siempre estoy aprendiendo y mejorando mis habilidades en Analisis de datos, aprendizaje automático y tecnologías relacionadas.
+
+👯 Estoy buscando colaborar en proyectos emocionantes que desafíen mis habilidades y me permitan aprender y crecer profesionalmente.
+
+🤔 Siempre estoy abierto a recibir ayuda y colaboración en áreas donde pueda mejorar, especialmente en temas más avanzados de análisis de datos.
+
+💬 No dudes en preguntarme sobre cualquier cosa relacionada con el analisis de datos o la enseñanza. Estoy aquí para ayudar en lo que pueda.
+
+📫 Puedes contactarme a través de rousyariza98@gmail.com
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
